@@ -1,6 +1,6 @@
 # Modified Norvig
 
-in 2007, Peter Norvig shared what has probably become one of the simplest and broadly sited spelling correction tool written in python, which is [described in detail on his website](http://norvig.com/spell-correct.html).
+In 2007, Peter Norvig shared what has probably become one of the simplest and broadly sited spelling correction tool written in python, which is [described in detail on his website](http://norvig.com/spell-correct.html).
 
 His code is used in other nlp tools, presumably because it is rock solid and super fast. The tool relies solely on ranking correction candidates based on the frequency that they show up in a lexicon. Most of the time, this is totally valid metric, but in cases where you only have a list of words without frequencies or, if your correcting for human typing errors, frequency along may fall short.
 
