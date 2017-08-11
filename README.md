@@ -8,7 +8,7 @@ With the provided code, I have implemented Norvig's spelling corrector, but have
 
 ## Requirements
 
-- a raw text file or delimited word frequency file with all the word you are looking to correct for.
+- a raw text file or delimited word frequency file with all the words you are looking to correct for.
 - Python3
 
 ## How it works
